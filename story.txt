@@ -1,1 +1,2 @@
-echo "It was a dark and stormy night." >> story.txt
+echo "It was a dark and stormy night."
+echo "Suddenly, a shot rang out!"
