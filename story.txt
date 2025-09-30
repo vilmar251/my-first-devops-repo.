@@ -1,1 +1,1 @@
-echo "This is the beginning of my story." > story.txt
+echo "It was a dark and stormy night." >> story.txt
