@@ -1,2 +1,2 @@
 echo "It was a dark and stormy night."
-echo "Suddenly, a shot rang out!"
+echo "And the sun was shining brightly."
